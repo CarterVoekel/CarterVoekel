@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Carter 👋
 
-<!--
-**CarterVoekel/CarterVoekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Principal Analytics Consultant who bridges technology and business through creative data solutions. I lead customer engagements, design data products, and turn complex analytics into compelling stories that drive decisions. Former Data Product Manager at SoftBank Robotics.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 📊 Contributing to [Workout Wednesday Sigma Challenges](https://workout-wednesday.com/sigma-challenges/)
+- 💼 Building my [data visualization portfolio](https://github.com/CarterVoekel/data-visualization-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Sigma Computing, SQL, Data Visualization, Dashboard Design, Power BI, Looker, Omni Analytics, Product Management, Consulting
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/carter-voekel/)
+- [Email](carterv@mac.com)
