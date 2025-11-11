@@ -12,4 +12,4 @@ Sigma Computing, SQL, Data Visualization, Dashboard Design, Power BI, Looker, Om
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carter-voekel/)
-- [Email](carterv@mac.com)
+- carterv@mac.com
