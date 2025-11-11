@@ -1,7 +1,7 @@
 # Hi, I'm Carter 👋
 
 ## About Me
-Principal Analytics Consultant who bridges technology and business through creative data solutions. I lead customer engagements, design data products, and turn complex analytics into compelling stories that drive decisions. Former Data Product Manager at SoftBank Robotics.
+Principal Analytics Consultant who bridges technology and business through creative data solutions. I lead customer engagements, design data products, and turn complex analytics into compelling stories that drive decisions. Former Product Manager (Efficiency and Data Products) at SoftBank Robotics.
 
 ## What I'm Working On
 - 📊 Contributing to [Workout Wednesday Sigma Challenges](https://workout-wednesday.com/sigma-challenges/)
