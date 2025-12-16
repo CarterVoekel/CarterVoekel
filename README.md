@@ -4,7 +4,7 @@
 Principal Analytics Consultant who bridges technology and business through creative data solutions. I lead customer engagements, design data products, and turn complex analytics into compelling stories that drive decisions. Former Product Manager (Efficiency and Data Products) at SoftBank Robotics.
 
 ## What I'm Working On
-- 📊 Contributing to [Workout Wednesday Sigma Challenges](https://workout-wednesday.com/sigma-challenges/)
+- 📊 Contributing to [Workout Wednesday Sigma Challenges](https://workout-wednesday.com/author/cartervmac-com/)
 - 💼 Building my [data visualization portfolio](https://github.com/CarterVoekel/data-visualization-portfolio)
 
 ## Skills
