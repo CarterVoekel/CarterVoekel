@@ -8,7 +8,7 @@ Principal Analytics Consultant who bridges technology and business through creat
 - 💼 Building my [data analysis & visualization portfolio](https://github.com/CarterVoekel/data-visualization-portfolio)
 
 ## Skills
-Sigma Computing, SQL, Data Visualization, Dashboard Design, Power BI, Looker, Omni Analytics, Product Management, Consulting
+Sigma Computing, SQL, Data Visualization, Dashboard Design and Delivery, Power BI, Looker, Omni Analytics, Product Management, Consulting
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carter-voekel/)
