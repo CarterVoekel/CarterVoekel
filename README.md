@@ -7,9 +7,10 @@ Principal Analytics Consultant who bridges technology and business through creat
 - 📊 Contributing to [Workout Wednesday Sigma Challenges](https://workout-wednesday.com/author/cartervmac-com/)
 - 💼 Building my [data analysis & visualization portfolio](https://github.com/CarterVoekel/data-visualization-portfolio)
 - 🍎 Working on some apps [Replit examples](https://ruffy.dog/)
+- 🐶 Building and running Pact [Pact.dog](https://pact.dog/)
 
 ## Skills
-Sigma Computing, SQL, Data Visualization, Dashboard Design and Delivery, Power BI, Looker, Omni Analytics, Product Management, Consulting
+Sigma Computing, SQL, Data Visualization, Dashboard Design and Delivery, Power BI, Looker, Omni Analytics, Product Management, Consulting, Project Delivery, Building AI data apps
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carter-voekel/)
